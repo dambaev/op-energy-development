@@ -114,7 +114,7 @@ in
     signet = { # signet instance
       db_dir = "/mnt/electrs-signet";
       cookie_file = "/mnt/bitcoind-signet/signet/.cookie";
-      blocks_dir = "/mnt/bitcoind-signet/signet/blocks";
+      daemon_dir = "/mnt/bitcoind-signet/signet/";
       network = "signet";
       rpc_listen = "127.0.0.1:60601";
       daemon_rpc_addr = "127.0.0.1:38332";
