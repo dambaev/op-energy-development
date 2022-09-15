@@ -5,4 +5,4 @@
 [submodule "overlays/op-energy"]
 	path = overlays/op-energy
 	url = https://github.com/dambaev/op-energy.git
-	branch = op-energy-better-rebases
+	branch = rebase/implement_backend
