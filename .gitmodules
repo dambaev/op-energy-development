@@ -5,4 +5,4 @@
 [submodule "overlays/ope-blockspan-service"]
 	path = overlays/ope-blockspan-service
 	url = ssh://git@github.com/girish-velas/ope-blockspan-service.git
-	branch = main
+	branch = 8-feat-blockswithnbdrbyblockspans-numberofspan-should-be-optional
